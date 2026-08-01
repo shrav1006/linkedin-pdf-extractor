@@ -68,15 +68,6 @@ npm run dev
 
 ---
 
-## 📌 Future Improvements
-
-- OCR support for scanned PDFs  
-- Authentication system  
-- Batch profile processing  
-- MongoDB storage  
-
----
-
 ## 👩‍💻 Author
 
 **Shravani Tambe**  
