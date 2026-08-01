@@ -81,3 +81,7 @@ npm run dev
 
 **Shravani Tambe**  
 B.E. Computer Engineering  
+---
+Disclaimer:
+This repository is an independent implementation created to demonstrate the concepts and technologies I worked with during my internship. It does not contain proprietary company code, internal business logic, or confidential assets.
+
