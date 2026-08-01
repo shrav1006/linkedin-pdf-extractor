@@ -34,6 +34,20 @@ An AI-powered full-stack application that extracts structured profile data from 
 - Azure OpenAI API
 
 ---
+## System Architecture
+PDF Upload
+      ↓
+React Frontend
+      ↓
+Express API
+      ↓
+PDF Parser
+      ↓
+Azure OpenAI
+      ↓
+Structured JSON
+      ↓
+Frontend Display
 
 ## ⚙️ Environment Variables
 
