@@ -36,16 +36,22 @@ An AI-powered full-stack application that extracts structured profile data from 
 ---
 ## System Architecture
 PDF Upload
+
       ↓
 React Frontend
+
       ↓
 Express API
+
       ↓
 PDF Parser
+
       ↓
 Azure OpenAI
+
       ↓
 Structured JSON
+
       ↓
 Frontend Display
 
